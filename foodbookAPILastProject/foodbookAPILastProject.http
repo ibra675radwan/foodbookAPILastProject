@@ -1,0 +1,6 @@
+@foodbookAPILastProject_HostAddress = http://localhost:5190
+
+GET {{foodbookAPILastProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

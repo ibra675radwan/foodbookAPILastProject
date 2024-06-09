@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "foodbookAPILastProject", "foodbookAPILastProject\foodbookAPILastProject.csproj", "{8D2E0D5B-6A2D-4522-8FB5-6ABB8E30EAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BAL\BLL.csproj", "{632EDC5B-F177-4F3B-BD07-CE7A1F903117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{224C5955-A03C-4CAF-975A-323DB074AC7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D2E0D5B-6A2D-4522-8FB5-6ABB8E30EAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2E0D5B-6A2D-4522-8FB5-6ABB8E30EAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2E0D5B-6A2D-4522-8FB5-6ABB8E30EAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2E0D5B-6A2D-4522-8FB5-6ABB8E30EAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{632EDC5B-F177-4F3B-BD07-CE7A1F903117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{632EDC5B-F177-4F3B-BD07-CE7A1F903117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{632EDC5B-F177-4F3B-BD07-CE7A1F903117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{632EDC5B-F177-4F3B-BD07-CE7A1F903117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224C5955-A03C-4CAF-975A-323DB074AC7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224C5955-A03C-4CAF-975A-323DB074AC7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224C5955-A03C-4CAF-975A-323DB074AC7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224C5955-A03C-4CAF-975A-323DB074AC7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB9F900B-FC67-4375-A0C4-8B548F3F918C}
+	EndGlobalSection
+EndGlobal
